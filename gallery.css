@@ -1,0 +1,34 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color:#FFFFF0;
+    height: 100vh;
+}
+
+nav{
+    height: 50px;
+    background-color: #EED8BF;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    float: left;
+    color: rgb(31, 31, 31);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
