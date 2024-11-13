@@ -26,12 +26,21 @@ article{
 .img-container{
     height: 100vh;
     width: 50vw;
+    text-align: center;
+}
+
+.main-pic{
+    height: auto;
+    width: 700px;
+    border-radius: 25px;
+    padding-top: 200px;
 }
 
 .story-container{
     height: 100vh;
     width: 50vw;
-    padding: 50px;
+    padding-top: 150px;
+    text-align: center;
 
 }
 
