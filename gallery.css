@@ -1,13 +1,14 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-color:#FFFFF0;
+    background-color:#FCF5E5;
     height: 100vh;
 }
 
 nav{
     height: 50px;
-    background-color: #EED8BF;
+    background-color: #9DBA77;
+    color: #16264C ;
 }
 
 ul{
@@ -24,6 +25,7 @@ a {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
 
 article{
