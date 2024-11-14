@@ -1,6 +1,14 @@
 body{
-    background: linear-gradient(to right, #EED8BF 50%, #FFFFF0 50%);
+    background: linear-gradient(to right, #7EA1C4 50%, #FCF5E5 50%);
+    padding: 0px;
+    margin: 0px;
+    background-color:#FCF5E5;
     height: 100vh;
+}
+
+nav{
+    background-color: #9DBA77;
+    color: #16264C ;
 }
 
 ul{
@@ -17,6 +25,7 @@ a {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
 
 article{
@@ -26,21 +35,30 @@ article{
 .img-container{
     height: 100vh;
     width: 50vw;
+    text-align: center;
+}
+
+.main-pic{
+    height: auto;
+    width: auto;
+    border-radius: 25px;
+    padding-top: 200px;
 }
 
 .story-container{
     height: 100vh;
     width: 50vw;
-    padding: 50px;
-
+    padding-top: 150px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
 
 .story-description{
     padding: 25px;
-    font-size: 23px;
+    font-size: 35px;
 }
 
 .story-container h1{
-    font-size: 50px;
+    font-size: 90px;
 } 
 
